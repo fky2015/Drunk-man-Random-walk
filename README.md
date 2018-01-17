@@ -2,5 +2,5 @@
 用python模拟醉汉问题并展示
 
 TODO list
--[] 用Cython提高效率
--[] 用C预言提高效率
+- [ ] 用Cython提高效率
+- [ ] 用C预言提高效率
